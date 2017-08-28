@@ -37,19 +37,19 @@ For more information and future announcements in deep learning and security, [si
 <div class="instructors">
 <div class="instructor">
   <a href="https://people.eecs.berkeley.edu/~dawnsong/">
-  <div class="instructorphoto"><img src="/assets/people/dawnsong.jpg" /></div>
+  <div class="instructorphoto"><img src="{{ site.baseurl }}/assets/people/dawnsong.jpg" /></div>
   <div>Dawn Song</div>
   </a>
 </div>
 <div class="instructor">
   <a href="https://www.ece.cmu.edu/~lbauer/">
-  <div class="instructorphoto"><img src="/assets/people/lujo.jpg" /></div>
+  <div class="instructorphoto"><img src="{{ site.baseurl }}/assets/people/lujo.jpg" /></div>
   <div>Lujo Bauer</div>
   </a>
 </div>
 <div class="instructor">
   <a href="#">
-  <div class="instructorphoto"><img src="/assets/people/zhifeng.jpg" /></div>
+  <div class="instructorphoto"><img src="{{ site.baseurl }}/assets/people/zhifeng.jpg" /></div>
   <div>Zhifeng Geng</div>
   </a>
 </div>
@@ -58,19 +58,19 @@ For more information and future announcements in deep learning and security, [si
 <div class="instructors">
 <div class="instructor">
   <a href="#">
-  <div class="instructorphoto"><img src="/assets/people/xiaodong.jpg" /></div>
+  <div class="instructorphoto"><img src="{{ site.baseurl }}/assets/people/xiaodong.jpg" /></div>
   <div>Xiaodong Su</div>
   </a>
 </div>
 <div class="instructor">
   <a href="https://people.eecs.berkeley.edu/~liuchang/">
-  <div class="instructorphoto"><img src="/assets/people/chang.jpg" /></div>
+  <div class="instructorphoto"><img src="{{ site.baseurl }}/assets/people/chang.jpg" /></div>
   <div>Chang Liu</div>
   </a>
 </div>
 <div class="instructor">
   <a href="https://unico.re">
-  <div class="instructorphoto"><img src="/assets/people/jernej.png" /></div>
+  <div class="instructorphoto"><img src="{{ site.baseurl }}/assets/people/jernej.png" /></div>
   <div>Jernej Kos</div>
   </a>
 </div>
@@ -90,11 +90,11 @@ For more information and future announcements in deep learning and security, [si
 
 **12:00 - 1:00pm** - Lunch
 
-**1:00 - 2:00pm** - Invited talk: [Machine Learning in Computer Security for Fun and Profit: Password Meters, Face Recognition and Online Tracking](/talks.html#machine-learning-in-computer-security-for-fun-and-profit-password-meters-face-recognition-and-online-tracking). *Lujo Bauer.*
+**1:00 - 2:00pm** - Invited talk: [Machine Learning in Computer Security for Fun and Profit: Password Meters, Face Recognition and Online Tracking](talks.md#machine-learning-in-computer-security-for-fun-and-profit-password-meters-face-recognition-and-online-tracking). *Lujo Bauer.*
 
-**2:00 - 3:00pm** - Invited talk: [Discover Maliciousness Among URLs: A Deep Learning Approach](/talks.html#discover-maliciousness-among-urls-a-deep-learning-approach). *Zhifeng Geng and Xiaodong Su.*
+**2:00 - 3:00pm** - Invited talk: [Discover Maliciousness Among URLs: A Deep Learning Approach](talks.md#discover-maliciousness-among-urls-a-deep-learning-approach). *Zhifeng Geng and Xiaodong Su.*
 
 **3:00 - 3:30pm** - Break
 
-**3:30 Feb 19 - 5:00pm Feb 20** - [Deep Learning and Security Innovation Hackathon](/hackathon.html).
+**3:30 Feb 19 - 5:00pm Feb 20** - [Deep Learning and Security Innovation Hackathon](hackathon.md).
 
